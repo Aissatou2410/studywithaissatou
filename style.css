@@ -1,0 +1,19 @@
+
+body
+{
+  background-color:#ffeeef;
+}
+h1
+{
+text-align: center;
+background-color:#ffa3d9;
+padding: 20px 0;
+margin: 0;
+font-size: 80px;
+font-family: "League Spartan", sans-serif;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
